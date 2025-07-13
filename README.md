@@ -30,3 +30,39 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
+
+
+# React Frontend (TypeScript)
+
+This project is a React frontend application built using TypeScript  (or Create React App — see below).
+
+## Prerequisites
+
+- Node.js (v16+ recommended)
+- npm or yarn
+
+## Getting Started
+
+## First navigate to frontend folder 
+```bash
+cd Frontend
+```
+
+
+
+### 1. Install Dependencies 
+
+``` bash
+npm install
+```
+
+### 2. Start Dev Server
+
+```bash
+npm run dev
+```
+
+
+
+
+
